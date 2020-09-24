@@ -62,9 +62,9 @@ content=html.Div([
 	html.Hr(),
 	dbc.Row(
 		[
-		dbc.Col(dcc.Link(dbc.Button(html.Img(src='https://github.com/niharika412/pose_coach/blob/master/PhotoGrid_Plus_1599472504043.png?raw=true', style={'height':'7rem', 'width':'7rem',"bottom": 2}), color="light",id="warrior2", className="m-1",n_clicks_timestamp=1 ),href='/analyse'),width=2),
-		dbc.Col(dcc.Link(dbc.Button(html.Img(src='https://github.com/niharika412/pose_coach/blob/master/PhotoGrid_Plus_1599472556491.png?raw=true', style={'height':'7rem', 'width':'7rem',"bottom": 2}), color="light",id="shouldershrug", className="m-1",n_clicks_timestamp=1),href='/shouldershrug'),width=2),
-		dbc.Col(dcc.Link(dbc.Button(html.Img(src='https://github.com/niharika412/pose_coach/blob/master/PhotoGrid_Plus_1599472446409.png?raw=true', style={'height':'7rem', 'width':'7rem',"bottom": 2}), color="light",id="goddess", className="m-1",n_clicks_timestamp=1),href='/goddess'),width=2),
+		dbc.Col(dcc.Link(dbc.Button(html.Img(src='https://github.com/niharika412/pose_coach/blob/master/images/PhotoGrid_Plus_1599472504043.png?raw=true', style={'height':'7rem', 'width':'7rem',"bottom": 2}), color="light",id="warrior2", className="m-1",n_clicks_timestamp=1 ),href='/analyse'),width=2),
+		dbc.Col(dcc.Link(dbc.Button(html.Img(src='https://github.com/niharika412/pose_coach/blob/master/images/PhotoGrid_Plus_1599472556491.png?raw=true', style={'height':'7rem', 'width':'7rem',"bottom": 2}), color="light",id="shouldershrug", className="m-1",n_clicks_timestamp=1),href='/shouldershrug'),width=2),
+		dbc.Col(dcc.Link(dbc.Button(html.Img(src='https://github.com/niharika412/pose_coach/blob/master/images/PhotoGrid_Plus_1599472446409.png?raw=true', style={'height':'7rem', 'width':'7rem',"bottom": 2}), color="light",id="goddess", className="m-1",n_clicks_timestamp=1),href='/goddess'),width=2),
 		],
 		justify='center',
 		),
