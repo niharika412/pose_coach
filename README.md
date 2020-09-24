@@ -54,7 +54,7 @@ Most exercises only work if they are done correctly, i.e in good form. This is w
 
 ## References
 
-* ![Mobile Net arch. code]https://github.com/quanhua92/human-pose-estimation-opencv
-* ![Similar work]https://github.com/stevenzchen/pose-trainer
+* [Mobile Net arch. code](https://github.com/quanhua92/human-pose-estimation-opencv)
+* [Similar work](https://github.com/stevenzchen/pose-trainer)
 
 # pose-coach
