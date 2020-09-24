@@ -36,7 +36,7 @@ The next page will allow you to upload an image from your system and after click
 ## Built With
 
 * [Dash](https://plotly.com/dash/) -  Machine learning library
-* [Openpose]https://github.com/CMU-Perceptual-Computing-Lab/openpose/) - web framework
+* [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/) - web framework
 
 ## Results
 ![success](https://github.com/niharika412/pose_coach/blob/master/final.PNG?raw=true)
